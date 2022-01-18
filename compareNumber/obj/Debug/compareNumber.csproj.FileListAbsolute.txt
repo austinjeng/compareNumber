@@ -1,0 +1,12 @@
+C:\Devs\compareNumber\compareNumber\bin\Debug\compareNumber.exe.config
+C:\Devs\compareNumber\compareNumber\bin\Debug\compareNumber.exe
+C:\Devs\compareNumber\compareNumber\bin\Debug\compareNumber.pdb
+C:\Devs\compareNumber\compareNumber\obj\Debug\compareNumber.csproj.AssemblyReference.cache
+C:\Devs\compareNumber\compareNumber\obj\Debug\compareNumber.Form1.resources
+C:\Devs\compareNumber\compareNumber\obj\Debug\compareNumber.Form2.resources
+C:\Devs\compareNumber\compareNumber\obj\Debug\compareNumber.Properties.Resources.resources
+C:\Devs\compareNumber\compareNumber\obj\Debug\compareNumber.csproj.GenerateResource.cache
+C:\Devs\compareNumber\compareNumber\obj\Debug\compareNumber.csproj.CoreCompileInputs.cache
+C:\Devs\compareNumber\compareNumber\obj\Debug\compareNumber.exe
+C:\Devs\compareNumber\compareNumber\obj\Debug\compareNumber.pdb
+C:\Devs\compareNumber\compareNumber\obj\Debug\compareNumber.Form3.resources
